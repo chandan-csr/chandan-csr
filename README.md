@@ -79,7 +79,7 @@ class Chandan {
 ## 🚀 Featured Projects
 
 ### 🔐 RSA-with-Fingerprint
-> Android application using RSA encryption with fingerprint authentication.
+> Web application using RSA encryption with fingerprint authentication.
 
 ### 📱 UniKit-android-app
 > Kotlin Android application with modern UI and reusable architecture.
@@ -88,10 +88,10 @@ class Chandan {
 > Forest management solution for tracking resources and administrative tasks.
 
 ### 📄 Quotation
-> Professional quotation generation and management application.
+> Professional quotation generation application.
 
-### 🤖 Cypress Automation Framework
-> Enterprise UI and API automation framework built with Cypress.
+### 🤖 Cypress Automation
+> UI and API automation with Cypress.
 
 ### 🌐 Spring Boot REST API
 > REST APIs developed using Spring Boot, MySQL, and JWT authentication.
