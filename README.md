@@ -17,16 +17,13 @@ Name       : Chandan Singh
 Role       : Software Test Engineer
 Company    : QualityAI
 Location   : India
-
 IDE        : VS Code
-
 Stack      : Java | JavaScript | Python
 Backend    : Spring Boot
 Frontend   : React
 Database   : MySQL | Oracle
 Testing    : Cypress | Selenium | Playwright
 API        : REST | GraphQL
-
 Status     : ██████████████████████████████ 100%
 Learning   : Always Learning 🚀
 
